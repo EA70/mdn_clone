@@ -22,7 +22,7 @@ export default function Navbar({ onBurgerClick }: Props) {
       {/* Logo */}
       <NavLink className="flex items-center gap-2 shrink-0" to='/'>
         <div className="w-2 h-2 rounded-full bg-blue-700" />
-        <span className="font-bold text-sm text-slate-900 dark:text-white">DevDocs</span>
+        <span className="font-bold text-sm text-slate-900 dark:text-white">MDN_Clone</span>
       </NavLink>
 
       {/* Liens */}
